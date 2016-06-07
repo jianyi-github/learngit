@@ -1,5 +1,5 @@
 aa
-Git is free software.33
+Git is a free software.33
 d
 add
 add2
