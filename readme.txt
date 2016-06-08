@@ -4,4 +4,4 @@ d
 add
 add2
 Creating a new branch is quick and simple.change
-add coding: utf-8
+add /usr/bin/env  coding: utf-8
